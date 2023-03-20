@@ -192,6 +192,9 @@ require('lazy').setup({
 -- [[ Setting options ]]
 -- See `:help vim.o`
 
+vim.o.expandtab = true
+vim.o.shiftwidth = 4
+
 -- Set highlight on search
 vim.o.hlsearch = false
 
