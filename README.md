@@ -6,7 +6,7 @@ A Fork for kickstart.nvim
 
 ### Installation
 
-Kickstart.nvim targets *only* the latest ['stable'](https://github.com/neovim/neovim/releases/tag/stable) and latest ['nightly'](https://github.com/neovim/neovim/releases/tag/nightly) of Neovim. If you are experiencing issues, please make sure you have the latest versions.
+Kickstart.nvim targets *only* the latest ['stable'](https://github.com/neovim/neovim/releases/tag/stable) and latest ['nightly'](https://github.com/neovim/neovim/releases/tag/nightly) of Neovim. If you are experiencing issues, please make sure you have the latest versions. (Neovim >= 0.8.0, beware ubuntu users!)
 
 * Backup your previous configuration
 * (Recommended) Fork this repo (so that you have your own copy that you can modify).
