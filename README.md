@@ -17,6 +17,7 @@ Kickstart.nvim targets *only* the latest ['stable'](https://github.com/neovim/ne
 * :MasonInstall clangd
 * :MasonInstall pyright
 * :MasonInstall typescript-language-server
+* :Copilot setup
 * **You're ready to go!**
 
 Additional system requirements:
